@@ -1,14 +1,19 @@
 <h1 align="center" >Hello, my name is Milav Shah.</h1>
 
-- 🔭 I’m currently learning: 
+### 🔭 I’m currently learning: 
   - Java, ☕️
   - Kotlin,  𝐊
   - Neovim, 📁
   - The command line. 🧑‍💻
+  - and pretty much everything else 🤦.
 
-<hr/>
 
-### Languages and Skills
+### ✏️  I'm urrently working on...
+- jaguar: a web app in Java.
+
+
+
+### 📕 Languages and Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmilav&layout=compact)](https://github.com/shahmilav)
 
 
