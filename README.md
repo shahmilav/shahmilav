@@ -8,7 +8,7 @@
   - and pretty much everything else 🤦.
 
 
-### ✏️  I'm urrently working on...
+### ✏️  I'm currently working on...
 - jaguar: a web app in Java.
 
 
