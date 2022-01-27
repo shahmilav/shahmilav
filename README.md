@@ -3,8 +3,8 @@
 ### 🔭 I’m currently learning: 
   - Java, ☕️
   - Kotlin,  𝐊
-  - Neovim, 📁
-  - The command line. 🧑‍💻
+  - Neovim, 💻
+  - The command line. ```>_```
   - and pretty much everything else 🤦.
 
 
