@@ -20,17 +20,6 @@
 <img align="left" alt="HTML5" width="60px" src="https://img.shields.io/badge/-HTML-red" />
 <img align="left" alt="IntelliJ Idea" width="112px" src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue" />
 
-<br />
-<br />
-<br />
-
-<details>
-  <summary>GitHub Activity</summary>
-  <br />
-
-  <img align="left" alt="shahmilav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shahmilav)" />
-</details>
-
 <!---
 shahmilav/shahmilav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
