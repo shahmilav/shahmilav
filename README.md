@@ -1,11 +1,11 @@
 <h1 align="center" >Hello, my name is Milav Shah.</h1>
 
 ### 🔭 I’m currently learning: 
-  - Java, ☕️
-  - Kotlin,  𝐊
-  - Neovim, 💻
-  - The command line. ```>_```
-  - and pretty much everything else 🤦.
+  - Java   ☕️
+  - Kotlin   𝐊
+  - Neovim   💻
+  - The command line   ```>_```
+  - and pretty much everything else  🤦.
 
 
 ### ✏️  I'm currently working on...
