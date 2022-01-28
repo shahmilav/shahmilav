@@ -16,7 +16,6 @@
 ### 📕 Languages and Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmilav&layout=compact)](https://github.com/shahmilav)
 
-
 [<img align="left" alt="Java" width="50px" src="https://img.shields.io/badge/-Java-orange" />](https://adoptopenjdk.net)
 [<img align="left" alt="Python" width="70px" src="https://img.shields.io/badge/-Python-green" />](https://www.python.org)
 [<img align="left" alt="Kotlin" width="60px" src="https://img.shields.io/badge/-Kotlin-blueviolet" />](https://kotlinlang.org)
