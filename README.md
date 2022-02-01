@@ -12,7 +12,6 @@
 - jaguar: a web app in Java.
 
 
-
 ### 📕 Languages and Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmilav)](https://github.com/shahmilav)
 
