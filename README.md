@@ -1,12 +1,9 @@
+<!---
+shahmilav/shahmilav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 # 🧑‍💻 Hello, my name is Milav Shah.
-
-### 🔭 I’m currently learning...
-  - _Java_     
-  - _JavaScript_        
-  - _Neovim_
-  - _The command line_ (zsh)   
-  - _git_
-
 
 ### ✏️  I'm currently working on...
 - _jaguar: a web app in Java._
@@ -22,7 +19,3 @@
 [<img align="left" alt="HTML5" width="60px" src="https://img.shields.io/badge/-HTML-red" />](https://github.com/shahmilav/startpage)
 [<img align="left" alt="IntelliJ Idea" width="112px" src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue" />](https://www.jetbrains.com/idea/)
 
-<!---
-shahmilav/shahmilav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
