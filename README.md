@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ### ✏️  I'm currently working on...
 - _jaguar: a web app in Java._
-- _[my portfolio website](shahmilav.github.io)_
+- _[my portfolio website](https://shahmilav.github.io/)_
 
 
 ### 📕 Languages and Skills
