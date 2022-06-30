@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI and Machine Learning with Python**
 
-- 👨‍💻 All of my projects are available at [https://shahmilav@gmail.com](https://shahmilav@gmail.com)
+- 👨‍💻 All of my projects are available at [https://shahmilav@gmail.com](https://shahmilav.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
