@@ -10,6 +10,7 @@
 ![Java](https://img.shields.io/badge/Java-f0921b?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache-maven&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-05F0F?style=for-the-badge&logo=spring&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
