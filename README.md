@@ -11,6 +11,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-05F0F?style=for-the-badge&logo=spring&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 
 #### Frontend
